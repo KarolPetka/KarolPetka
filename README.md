@@ -7,7 +7,8 @@
 ### Find me here:
 
 [<img align="left" target="_blank" alt="petka.it" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg" />][website]
-[<img align="left" target="_blank" alt="Karol Petka | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" target="_blank" alt="LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
+[<img align="left" target="_blank" alt="Codewars" width="22px" src="https://docs.codewars.com/logo.svg" />][codewars]
 
 <br />
 
@@ -30,3 +31,4 @@
 
 [website]: https://www.petka.it
 [linkedin]: https://www.linkedin.com/in/karolpetka
+[codewars]: https://www.codewars.com/users/KarolPetka
