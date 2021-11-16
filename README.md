@@ -6,7 +6,7 @@
 
 ### Find me here:
 
-[<img align="left" target="_blank" alt="petka.it" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" target="_blank" alt="petka.it" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg" />][website]
 [<img align="left" target="_blank" alt="Karol Petka | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
 
 <br />
