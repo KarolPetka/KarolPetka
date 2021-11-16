@@ -14,7 +14,7 @@
 
 ### Languages and Tools I know:
 
-<img align="left" alt="Java" width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="Java" width="30px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Hibernate" width="26px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" />
 <img align="left" alt="Spring" width="26px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
