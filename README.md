@@ -1,4 +1,4 @@
-## Hi! I'm Karol aka Karo <img align="right" alt="Karo" width="50px" src="https://www.pngfind.com/pngs/m/220-2203864_karo-light-corn-syrup-with-real-vanilla-32.png" />👋 
+## Hi! I'm Karol aka Karo <img align="right" alt="Karo" width="80px" src="https://www.pngfind.com/pngs/m/220-2203864_karo-light-corn-syrup-with-real-vanilla-32.png" />👋 
 
 - 🎓 Computer Science student
 - 📈 Passionate about algorithmic stocks/commodities/currencies trading
