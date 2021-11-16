@@ -24,11 +24,6 @@
 <img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 
-<br />
-<br />
-
----
-
 [website]: https://www.petka.it
 [linkedin]: https://www.linkedin.com/in/karolpetka
 [codewars]: https://www.codewars.com/users/KarolPetka
