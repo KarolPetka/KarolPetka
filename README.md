@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science student
 - 📈 Passionate about algorithmic stocks/commodities/currencies trading
-- 🥅 2022 Goal: Practice algorithmics and Keep getting more knowledge in Spring and React
+- 🥅 2022 Goal: Practice algorithmics and keep getting more knowledge in Spring and React
 
 ### Find me here:
 
