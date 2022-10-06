@@ -1,4 +1,4 @@
-## Hi! I'm Karol aka Karo👋 
+## Hi! I'm Karol👋 
 
 - 🎓 Computer Science student
 - 📈 Passionate about algorithmic stocks/commodities/currencies trading
