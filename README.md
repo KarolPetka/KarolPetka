@@ -1,15 +1,5 @@
 ## Hi! I'm Karol👋 
 
-- 🎓 Computer Science student
-- 📈 Passionate about algorithmic stocks/commodities/currencies trading
-- 🥅 2022 Goal: Practice algorithmics and keep getting more knowledge in Spring and React
-
-### Find me here:
-
-[<img align="left" target="_blank" alt="petka.it" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg" />][website]
-[<img align="left" target="_blank" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedin]
-[<img align="left" target="_blank" alt="Codewars" width="30px" src="https://docs.codewars.com/logo.svg" />][codewars]
-
 <br />
 
 ### Languages and Tools I know:
