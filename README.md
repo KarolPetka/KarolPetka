@@ -1,7 +1,4 @@
 ## Hi! I'm Karol👋 
-
-<br />
-
 ### Languages and Tools I know:
 
 <img align="left" alt="Java" width="35px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
